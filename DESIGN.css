@@ -16,17 +16,17 @@
     }
 
     .bgimg-2 {
-        background-image: url('images/trees');
+        background-image: url('images/trees.jpg');
         min-height: 400px;
     }
 
     .bgimg-3 {
-        background-image: url('images/concert\ photo.jpg');
+        background-image: url('images/hydrangeas.jpg');
         min-height: 400px;
     }
 
     .bgimg-4 {
-        background-image: url('images/thumbnail_IMG_7906.jpg');
+        background-image: url('images/tulips.jpg');
         min-height: 400px;
     }
 
@@ -60,6 +60,10 @@ h1 {
     margin: 10px;
     
     color: #000000;
+}
+
+.aboutSub {
+    color: #744672;
 }
 
 h2 {
@@ -123,7 +127,7 @@ p {
 }
 
 strong {
-    color:#0389A6;
+    color: #7e818a;
     font-weight: 400;
 }
 
@@ -135,20 +139,20 @@ a {
     color:white;
 }
 
-/*LARGER SECTION FORMATTING*/
+/*CUSTOM SECTION FORMATTING*/
 body {
     background-color: white;
 }
 
+.footer {
+    background-color:#744672
+}
 .whitespace {
  height: 200px;
 }
 
-
-
-
 .top{
-    background-color: black;
+    background-color: #BF754B;
   }
 
 .portfolio {
@@ -168,11 +172,15 @@ body {
 }
 
 .bbground{
-    background-color: white;
+    background-color: #744672;
+}
+
+.btext{
+    color: white;
 }
 
 .navBar{
-    background-color: black;
+    background-color: #BF754B;
 }
 
 .mySlides {display: none}
@@ -188,11 +196,12 @@ body {
 }
 
 .role{
-    color: black;
+    color: #744672;
   }
 
 .poem .title {
     font-style: italic;
+    color:#744672;
 }
 
 
@@ -204,40 +213,12 @@ pink: #F2D8C9;
 orange: #F27052; 
 red: #F24738;
 
-/* Color Theme Swatches in Hex */
-.Travel-1-hex { color: #C7CCD9; }
-.Travel-2-hex { color: #3F7373; }
-.Travel-3-hex { color: #A68F72; }
-.Travel-4-hex { color: #BF754B; }
-.Travel-5-hex { color: #732B1A; }
-
-/* Color Theme Swatches in Hex */
-.Le-chemin-des-vignobles-1-hex { color: #222A59; }
-.Le-chemin-des-vignobles-2-hex { color: #226B73; }
-.Le-chemin-des-vignobles-3-hex { color: #D9B504; }
-.Le-chemin-des-vignobles-4-hex { color: #F2E6C2; }
-.Le-chemin-des-vignobles-5-hex { color: #F24C27; }
-
-/* Color Theme Swatches in Hex */
-.Lettering-Series-LVIII-1-hex { color: #5F736D; }
-.Lettering-Series-LVIII-2-hex { color: #F2E8DC; }
-.Lettering-Series-LVIII-3-hex { color: #F24130; }
-.Lettering-Series-LVIII-4-hex { color: #8C2920; }
-.Lettering-Series-LVIII-5-hex { color: #260101; }
-
-/* Color Theme Swatches in Hex */
-.UNXD-—-Digital-Luxury-NFT-Marketplace-1-hex { color: #07038C; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-2-hex { color: #F2B705; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-3-hex { color: #A64F03; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-4-hex { color: #BF8773; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-5-hex { color: #260401; }
-
-
-/* Color Theme Swatches in Hex */
-.UNXD-—-Digital-Luxury-NFT-Marketplace-1-hex { color: #592A01; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-2-hex { color: #F2811D; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-3-hex { color: #A64F03; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-4-hex { color: #004A59; }
-.UNXD-—-Digital-Luxury-NFT-Marketplace-5-hex { color: #0389A6; }
+/* Color Theme Swatches in Hex 
+{ color: #C7CCD9; }
+ { color: #3F7373; }
+{ color: #A68F72; }
+ { color: #BF754B; }
+{ color: #732B1A; }
+*/
 
 
