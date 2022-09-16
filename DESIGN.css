@@ -211,6 +211,7 @@ body {
 
 .poem1 .title {
     font-style: italic;
+    text-align: left;
     color:#744672;
 }
 
