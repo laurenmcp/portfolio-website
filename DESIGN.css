@@ -54,7 +54,7 @@
     }
 /*HEADER STYLES*/
 h1 {
-    font-family: "Julius Sans One";
+    font-family: "Julius Sans One", Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     font-size: 80px;
     margin: 10px;
@@ -67,7 +67,7 @@ h1 {
 }
 
 h2 {
-    font-family: "Archivo Narrow";
+    font-family: "Archivo Narrow", Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     font-size: 48px;
     margin: 10px;
@@ -76,7 +76,7 @@ h2 {
 }
 
 h3 {
-    font-family: "Julius Sans One";
+    font-family: "Julius Sans One", Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     font-size: 36px;
     margin: 10px;
@@ -85,7 +85,7 @@ h3 {
 }
 
 h4 {
-    font-family: "Archivo Narrow";
+    font-family: "Archivo Narrow", Verdana, Geneva, Tahoma, sans-serif;
     font-weight: ;
     font-size: 32px;
     margin: 10px;
@@ -94,7 +94,7 @@ h4 {
 }
 
 h5 {
-    font-family: "Julius Sans One";
+    font-family: "Julius Sans One", Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     font-size: 32px;
     margin: 10px;
@@ -102,7 +102,7 @@ h5 {
 }
 
 ul {
-    font-family: "Source Sans Pro";
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 16px;
     margin: 10px;
@@ -110,7 +110,7 @@ ul {
 }
 
 li {
-    font-family: "Source Sans Pro";
+    font-family: "Source Sans Pro",Arial, Helvetica, sans-serif ;
     font-weight: 400;
     font-size: 16px;
     margin: 10px;
@@ -118,7 +118,7 @@ li {
 }
 
 p {
-    font-family: "Source Sans Pro";
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 16px;
     margin: 10px;
@@ -132,7 +132,7 @@ strong {
 }
 
 a {
-    font-family: "Source Sans Pro";
+    font-family: "Source Sans Pro", Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     font-size: 16px;
     margin: 10px;
