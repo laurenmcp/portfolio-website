@@ -190,9 +190,14 @@ body {
 }
 
 /*SPECIFIC TEXT PIECES*/
-.poem {
+.poem1 {
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
+}
+
+.poem {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
 }
 
 .role{
@@ -203,6 +208,12 @@ body {
     font-style: italic;
     color:#744672;
 }
+
+.poem1 .title {
+    font-style: italic;
+    color:#744672;
+}
+
 
 
 
