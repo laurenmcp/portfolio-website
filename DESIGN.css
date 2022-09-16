@@ -16,12 +16,12 @@
     }
 
     .bgimg-2 {
-        background-image: url('images/stage.jpg');
+        background-image: url('images/trees');
         min-height: 400px;
     }
 
     .bgimg-3 {
-        background-image: url('images/violin.jpg');
+        background-image: url('images/concert\ photo.jpg');
         min-height: 400px;
     }
 
@@ -144,12 +144,10 @@ body {
  height: 200px;
 }
 
-.role{
-    color: black;
-  }
 
 
-  .top{
+
+.top{
     background-color: black;
   }
 
@@ -169,21 +167,8 @@ body {
 
 }
 
-.poem {
-    font-family: 'Times New Roman', Times, serif;
-    text-align: left;
-}
-
-.poem .title {
-    font-style: italic;
-}
-
 .bbground{
     background-color: white;
-}
-
-html{
-    background-color:;
 }
 
 .navBar{
@@ -195,6 +180,22 @@ html{
 .columnimage {
     size: 70%;
 }
+
+/*SPECIFIC TEXT PIECES*/
+.poem {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.role{
+    color: black;
+  }
+
+.poem .title {
+    font-style: italic;
+}
+
+
 
 /* color theme 
 blue: #5B7BA6;
